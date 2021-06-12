@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/covidx-official-release-v1s/static/css/main.f2643463.chunk.css",
+    "main.js": "/covidx-official-release-v1s/static/js/main.ecb70b74.chunk.js",
+    "main.js.map": "/covidx-official-release-v1s/static/js/main.ecb70b74.chunk.js.map",
+    "runtime-main.js": "/covidx-official-release-v1s/static/js/runtime-main.6d7be9dc.js",
+    "runtime-main.js.map": "/covidx-official-release-v1s/static/js/runtime-main.6d7be9dc.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/covidx-official-release-v1s/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.df412be5.chunk.js": "/covidx-official-release-v1s/static/js/2.df412be5.chunk.js",
+    "static/js/2.df412be5.chunk.js.map": "/covidx-official-release-v1s/static/js/2.df412be5.chunk.js.map",
+    "index.html": "/covidx-official-release-v1s/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/covidx-official-release-v1s/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.f2643463.chunk.css.map": "/covidx-official-release-v1s/static/css/main.f2643463.chunk.css.map",
+    "static/js/2.df412be5.chunk.js.LICENSE.txt": "/covidx-official-release-v1s/static/js/2.df412be5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d7be9dc.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.df412be5.chunk.js",
+    "static/css/main.f2643463.chunk.css",
+    "static/js/main.ecb70b74.chunk.js"
+  ]
+}
