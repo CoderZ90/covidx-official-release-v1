@@ -1,19 +1,9 @@
 # Getting Started with Create React App
 
-# Getting Started with Create React App
-
 ## This is an open source project for COVID-19 
 
 ### This app is built in reactjs library also known as framework . This App Tracks Covid 19 Live Cases
-### The Tracker is under development
 
-To install it run
-        npm install
-        
-Then Open CMD and type 
-        npm start (to start the development server in your browser at localhost:3000)
-
-<br />
 <br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
